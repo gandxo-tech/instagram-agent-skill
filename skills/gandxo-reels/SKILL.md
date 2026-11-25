@@ -7,10 +7,10 @@ description: >-
   blanche), structure de reel qui retient, faux 3D et transitions, voix off
   edge-tts + sound design, 7 stickers renard et leur mapping, carrousels
   1080x1350, stories teaser/annonce, légendes, DM, contraintes réelles de
-  publication Instagram. Le détail technique est dans REFERENCE.md du même
-  dossier. Use dès que la demande concerne « mon style », un reel, un carrousel,
-  une story, un teaser, une annonce, une légende, un DM, du motion design, ou
-  « commente PROJET ».
+  publication Instagram. Le détail technique est dans sound.md, visual.md,
+  publishing.md, layouts.md et checklist.md. Use dès que la demande concerne
+  « mon style », un reel, un carrousel, une story, un teaser, une annonce, une
+  légende, un DM, du motion design, ou « commente PROJET ».
 ---
 
 # Gandxo — style, reels, carrousels, stories
@@ -19,7 +19,12 @@ Charge cette skill pour toute production visuelle ou éditoriale du compte @exau
 
 Le sujet et le CTA ne viennent pas d'ici : ils viennent de `gandxo-idee-au-produit` (« De l'idée au produit », CTA `PROJET`).
 
-**Ouvre `REFERENCE.md`** avant de coder : voix off et mix, recettes de faux 3D et transitions, stickers renard, publication Instagram, pipeline de rendu, carrousels et stories, checklist de livraison, pièges connus.
+**Fichiers de référence, à ouvrir avant de coder :**
+- `sound.md` — voix off edge-tts, musique, ducking, niveaux livrés.
+- `visual.md` — faux 3D, transitions, stickers renard et leur mapping.
+- `publishing.md` — contraintes réelles de publication, pipeline de rendu mesuré.
+- `layouts.md` — carrousels 1080×1350, stories teaser/annonce, légendes.
+- `checklist.md` — checklist de livraison, pièges connus, workflow d'un agent.
 
 ## 0. Règles non négociables
 
